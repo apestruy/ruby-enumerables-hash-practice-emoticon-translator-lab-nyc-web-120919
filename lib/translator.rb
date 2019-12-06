@@ -1,8 +1,10 @@
 require 'yaml'
 
 
-def load_library
-  # code goes here
+def load_library(file_path)
+  hash = {}
+  
+  hash 
 end
 
 def get_japanese_emoticon
