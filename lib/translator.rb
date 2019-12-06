@@ -2,7 +2,7 @@ require 'yaml'
 
 
 def load_library(file_path)
-  hash = {}
+  hash = {:get_meaning => {}, :}
   
   hash 
 end
